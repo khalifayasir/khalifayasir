@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khalifayasir Arogundade
-- 👀 I’m interested in doing science.
+- 👀 I am interested in science and I own https://doingscience.org
 - 🌱 I’m currently learning programming from my Dad.
 - 💞️ I’m looking to collaborate on AI and Renewable Energy.
-- 📫 You can reach me via khalifayasir15@gmail.com
+- 📫 You can reach me at khalifayasir15@gmail.com 
 
 <!---
 khalifayasir/khalifayasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
